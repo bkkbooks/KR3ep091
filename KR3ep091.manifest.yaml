@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep091/v1
 canonical_location: https://kanripo.org/bkk/KR3ep091/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 靜香樓醫案
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep091_000.yaml, hash: 'sha256:f7fc51c9ef50cf1b2988def81892ed01bda1416cd48ebbe05545bac879be3b87'}
-  - {seq: 1, filename: KR3ep091_001.yaml, hash: 'sha256:27265a65ae7de085ac81b5d440279923f944ec9fb4ca75623978cf6d9c0c387e'}
-  - {seq: 3, filename: KR3ep091_003.yaml, hash: 'sha256:6b90baef55dac062c3cd98ee1543706d68de654f6f17190feb018a616232e7e5'}
+  - {seq: 0, filename: KR3ep091_000.yaml, hash: 'sha256:30b15f27f61cb565ea6f1e37785e645d3dd4a35242843c299aa38e6a3fc9dfd8'}
+  - {seq: 1, filename: KR3ep091_001.yaml, hash: 'sha256:8af50dd0ad45dfca60bd4ee68b05171a208a4701ccfc53ca30f88bcd90d9ceb5'}
+  - {seq: 3, filename: KR3ep091_003.yaml, hash: 'sha256:ac80ba334894dd6f55fb37b4d5befc677ab030a6a0bf66266c7c7958c21bf30d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep091_000.markers.yaml, hash: 'sha256:3989ce81a161c8ff8a88502fcf08eacd885570c5f1801471132f2db1e2f0c1c9'}
-  - {seq: 1, role: markers, filename: assets/KR3ep091_001.markers.yaml, hash: 'sha256:06a41e47efbd2e39b297f3098d168da0449204f60b6aa13ffb2ee8064127252b'}
-  - {seq: 3, role: markers, filename: assets/KR3ep091_003.markers.yaml, hash: 'sha256:4e04fa408847c79e3e40650faffc34cd37feb5ecf8c318217090546a1e417a05'}
+  - {seq: 0, role: markers, filename: assets/KR3ep091_000.markers.yaml, hash: 'sha256:307d84091c007410a77d7fb305c8af1321fb7af66a6a82e30d421f6142ec43d3'}
+  - {seq: 1, role: markers, filename: assets/KR3ep091_001.markers.yaml, hash: 'sha256:726c0cffa4544be9a418b774a4c4103819b2fa054e6084e884a7855f3fab9a96'}
+  - {seq: 3, role: markers, filename: assets/KR3ep091_003.markers.yaml, hash: 'sha256:15d60ea4859d279576bd974ae4f622a60a0267bb0f1a342b73df8edc20dd961a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -375,4 +375,7 @@ table_of_contents:
   label: 婦人門
   type: section
   level: 2
-hash: sha256:a418e31c0fde2a60e4052d18121d74ac251633a4338524a736ca90eaa1a269d9
+hash: sha256:229dffbc834525b1c4f3e1e7124ef4eefb1dc68b03062e5b2b4f643acbd8449f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
